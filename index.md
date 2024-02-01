@@ -12,3 +12,8 @@ ganz normaler Text
 for i in range(1,11):
   print(i)
 ```
+### eine Taskliste erstellen
+- [x] Katzenbilder
+- [x] Code Snippet
+- [ ] KI
+- [ ] Mergen 
